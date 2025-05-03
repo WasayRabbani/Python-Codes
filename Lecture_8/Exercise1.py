@@ -1,3 +1,6 @@
+# Exercise 1: Topic Covered: Data Types, Variables, Typecasting, Comments,f string
+
+
 ''' Q1: Take two numbers from user and perform following operations
 1. Addition
 2. Subtraction
