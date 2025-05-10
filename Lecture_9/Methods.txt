@@ -1,0 +1,45 @@
+1. Case Conversion Methods
+
+
+str.lower() - converts to lowercase
+
+str.upper() - converts to uppercase
+
+str.title() - capitalizes first letter of each word
+
+str.capitalize() - capitalizes first character
+
+
+
+2. Search & Check Methods
+
+
+str.find() - returns lowest index of substring
+
+str.index() - like find() but raises ValueError if not found
+
+str.startswith() - checks if string starts with prefix
+
+str.endswith() - checks if string ends with suffix
+
+str.count() - counts substring occurrences
+
+str.isalpha() - checks if all characters are alphabetic
+
+str.isdigit() - checks if all characters are digits
+
+str.isalnum() - checks alphanumeric characters
+
+str.isspace() - checks whitespace characters
+
+str.islower()/str.isupper() - case 
+
+
+3. Formatting Methods
+
+str.strip() - removes leading/trailing whitespace
+
+str.replace(old, new) - replaces occurrences
+
+str.split(sep) - splits string into list '''
+
