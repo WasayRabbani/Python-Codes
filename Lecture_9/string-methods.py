@@ -5,7 +5,7 @@ print(len(str1))
 str2=str1.strip()
 print(len(str2))
 
-str4="Hello Fr1iends"
+str4="Hello Friends"
 str5=str4.replace('Hello','Hi')
 
 list1=str4.split()
